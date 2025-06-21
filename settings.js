@@ -6,10 +6,10 @@ function convertToBool(text, fault = 'true') {
     return text === fault ? true : false;
 }
 module.exports = {
-SESSION_ID: process.env.SESSION_ID || "malvin~97cUWSCA#1aDbH-ZLWglxrVZxQc5Bw7lkhRrn9i3uXdbWqSn-olw
+SESSION_ID: malvin~97cUWSCA#1aDbH-ZLWglxrVZxQc5Bw7lkhRrn9i3uXdbWqSn-olw
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
-BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+BOT_NAME: process.env.BOT_NAME || "MELOS BOT",
 // add bot name here for menu
 MODE: process.env.MODE || "public",
 // make bot public-private-inbox-group 
@@ -20,7 +20,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 
     LINK_ACTION: "kick", // "kick", "mute", or "none"
 
-        AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "true",
+        AUTO_STATUS_SEEN: process.env.AUTO_STATUS_SEEN || "false",
 // make true or false status auto seen
 
         AUTO_STATUS_REPLY: process.env.AUTO_STATUS_REPLY || "false",
@@ -55,7 +55,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 // add alive msg here 
 
 
-        STICKER_NAME: process.env.STICKER_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
+        STICKER_NAME: process.env.STICKER_NAME || "ᴍELOS BOt",
 // type sticker pack name 
 
         CUSTOM_REACT: process.env.CUSTOM_REACT || "false",
@@ -68,7 +68,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 // automatic delete links witho remove member 
 
           OWNER_NUMBER: process.env.OWNER_NUMBER || "232090729208",
-// add your bot owner number
+// add your bot owner number23290729208
 
 OWNER_NAME: process.env.OWNER_NAME || "MELOS BOt",
 // add bot owner name
