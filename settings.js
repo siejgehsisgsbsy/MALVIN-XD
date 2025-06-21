@@ -7,7 +7,7 @@ function convertToBool(text, fault = 'true') {
 }
 module.exports = {
 SESSION_ID: process.env.SESSION_ID || "malvin~lndlBahL#0nH2atgdoZJlZ-52TWg-D5ODHUY_4KHn1V1sdBMPE64",
-// add your Session Id make sure it starts with malvin~
+// malvin~97cUWSCA#1aDbH-ZLWglxrVZxQc5Bw7lkhRrn9i3uXdbWqSn-olwadd your Session Id make sure it starts with malvin~
 PREFIX: process.env.PREFIX || ".",
 // add your prifix for bot   
 BOT_NAME: process.env.BOT_NAME || "ᴍᴀʟᴠɪɴ-xᴅ",
@@ -69,7 +69,7 @@ LINK_WHITELIST: "youtube.com,github.com",
 // automatic delete links witho remove member 
 
           OWNER_NUMBER: process.env.OWNER_NUMBER || "263776388689",
-// add your bot owner number
+// +23290729208
 
 OWNER_NAME: process.env.OWNER_NAME || "ᴍᴀʟᴠɪɴ ᴋɪɴɢ",
 // add bot owner name
